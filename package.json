@@ -1,0 +1,9 @@
+{
+  "name": "amata-ark-demo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "scripts"
+  ],
+  "packageManager": "yarn@3.5.0"
+}

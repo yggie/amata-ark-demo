@@ -1,0 +1,18 @@
+{
+  "name": "@amata-ark-demo/scripts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "seed": "ts-node src/seed | pino-pretty"
+  },
+  "dependencies": {
+    "pino": "^8.11.0",
+    "pino-pretty": "^10.0.0",
+    "xrpl": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
