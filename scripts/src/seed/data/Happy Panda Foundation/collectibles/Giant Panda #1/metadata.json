@@ -1,0 +1,18 @@
+{
+  "floorPrice": 350,
+  "description": "Pandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo. They must eat around 26 to 84 pounds of it every day, depending on what part of the bamboo they are eating. They use their enlarged wrist bones that function as opposable thumbs.",
+  "image": {
+    "path": "./pexels-kirandeep-singh-walia-14925846.jpg",
+    "description": "Panda Bear Eating by Kirandeep Singh Walia (Pexels)",
+    "authorName": "Kirandeep Singh Walia",
+    "authorBioUrl": "https://www.pexels.com/@kirandeepsingh/",
+    "licenseUrl": "https://www.pexels.com/license/"
+  },
+  "model": {
+    "path": "./Lazy_panda.usdz",
+    "description": "Lazy panda",
+    "authorName": "manogna",
+    "authorBioUrl": "https://sketchfab.com/manogna",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "floorPrice": 420,
+  "description": "Gorillas are gentle giants and display many human-like behaviors and emotions, such as laughter and sadness. In fact, gorillas share 98.3% of their genetic code with humans, making them our closest cousins after chimpanzees and bonobos.",
+  "image": {
+    "path": "./pexels-julia-filirovska-7190227.jpg",
+    "description": "Black Gorilla Sitting on Hay by Julia Filirovska (Pexels)",
+    "authorName": "Julia Filirovska",
+    "authorBioUrl": "https://www.pexels.com/@filirovska/",
+    "licenseUrl": "https://www.pexels.com/license/"
+  },
+  "model": {
+    "path": "./Gorilla_idle_animation.usdz",
+    "description": "Gorilla idle animation by dinomaster (Sketchfab)",
+    "authorName": "dinomaster",
+    "authorBioUrl": "https://sketchfab.com/dinomaster",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}

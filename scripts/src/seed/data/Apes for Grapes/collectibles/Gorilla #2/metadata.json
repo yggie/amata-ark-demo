@@ -1,0 +1,18 @@
+{
+  "floorPrice": 780,
+  "description": "Gorillas live in family groups of usually five to 10, but sometimes two to more than 50, led by a dominant adult male—or silverback—who holds his position for years. The bond between the silverback and his females forms the basis of gorilla social life.",
+  "image": {
+    "path": "./pexels-david-atkins-6949396.jpg",
+    "description": "Photo of a Gorilla Walking on Grass by David Atkins (Pexels)",
+    "authorName": "David Atkins",
+    "authorBioUrl": "https://www.pexels.com/@david-atkins-11679899/",
+    "licenseUrl": "https://www.pexels.com/license/"
+  },
+  "model": {
+    "path": "./Silverback_Gorilla_Figurine.usdz",
+    "description": "Silverback Gorilla Figurine by Tyler Jackson (Sketchfab)",
+    "authorName": "Tyler Jackson",
+    "authorBioUrl": "https://sketchfab.com/tyjajack",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "floorPrice": 1080,
+  "description": "The blue whale is the largest animal on the planet, weighing as much as 200 tons (approximately 33 elephants). The blue whale has a heart the size of a Volkswagen Beetle. Its stomach can hold one ton of krill and it needs to eat about four tons of krill each day.",
+  "image": {
+    "path": "./pexels-elianne-dipp-4696771.jpg",
+    "description": "Whale in blue depth of ocean by Elianne Dipp (Pexels)",
+    "authorName": "Elianne Dipp",
+    "authorBioUrl": "https://www.pexels.com/@eliannedipp/",
+    "licenseUrl": "https://www.pexels.com/license/"
+  },
+  "model": {
+    "path": "./Blue_Whale_-_Textured.usdz",
+    "description": "Blue Whale - Textured by Bohdan Lvov",
+    "authorName": "Bohdan Lvov",
+    "authorBioUrl": "https://sketchfab.com/ostapblendercg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}

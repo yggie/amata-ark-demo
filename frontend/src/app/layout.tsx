@@ -44,7 +44,9 @@ export default function RootLayout({
             <nav>
               <ul>
                 <li>
-                  <button className="btn btn-sm btn-ghost">Login</button>
+                  <button className="btn btn-sm btn-ghost">
+                    Connect wallet
+                  </button>
                 </li>
               </ul>
             </nav>
@@ -55,7 +57,26 @@ export default function RootLayout({
           <footer className="p-4 w-full">
             <div className="h-[1px] bg-primary w-full max-w-xl mx-auto"></div>
 
-            <div>Footer</div>
+            <div className="text-xs mt-8">
+              Made by the team at{" "}
+              <a
+                href="https://amata.world"
+                target="_blank"
+                rel="noreferrer nofollow"
+                className="link link-primary"
+              >
+                Amata World
+              </a>{" "}
+              for{" "}
+              <a
+                href="https://unlockingxrpl.devpost.com/"
+                target="_blank"
+                rel="noreferrer nofollow"
+                className="link link-primary"
+              >
+                Unlocking the Potential of XRP Ledge Hackathon
+              </a>
+            </div>
           </footer>
         </main>
       </body>

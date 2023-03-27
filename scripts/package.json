@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "seed": "ts-node src/seed | pino-pretty"
+    "seed": "dotenv -e .env ts-node src/seed | pino-pretty"
   },
   "dependencies": {
+    "dotenv-cli": "^7.1.0",
+    "firebase-admin": "^11.5.0",
+    "nft.storage": "^7.0.3",
     "pino": "^8.11.0",
     "pino-pretty": "^10.0.0",
     "xrpl": "^2.7.0"

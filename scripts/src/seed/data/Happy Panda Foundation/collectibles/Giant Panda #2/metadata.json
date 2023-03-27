@@ -1,0 +1,18 @@
+{
+  "floorPrice": 550,
+  "description": "A newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk.",
+  "image": {
+    "path": "./pexels-alotrobo-7506265.jpg",
+    "description": "Panda bear eating bamboo leaves in zoo by Alotrobo (Pexels)",
+    "authorName": "Alotrobo",
+    "authorBioUrl": "https://www.pexels.com/@aloismoubax/",
+    "licenseUrl": "https://www.pexels.com/license/"
+  },
+  "model": {
+    "path": "./Panda.usdz",
+    "description": "Panda",
+    "authorName": "firoh",
+    "authorBioUrl": "https://sketchfab.com/firoh",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}
