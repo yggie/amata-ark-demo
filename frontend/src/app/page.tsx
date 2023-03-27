@@ -138,7 +138,21 @@ export default function Home({
             </a>
           </div>
 
-          <div className="flex flex-row justify-end">
+          <div className="flex flex-row items-center justify-end gap-4">
+            <a
+              href={`https://testnet.xrpl.org/nft/${collectibleInFocus?.tokenId}`}
+              target="_blank"
+              rel="noreferrer nofollow"
+              className="text-xs link flex flex-row items-center gap-1 text-slate-700"
+            >
+              <span>
+                NFT:{(collectibleInFocus?.tokenId || "").slice(0, 8)}...
+              </span>{" "}
+              <span className="material-symbols-outlined !text-xs">
+                open_in_new
+              </span>
+            </a>
+
             <div className="flex flex-row items-center gap-1">
               <img
                 src="/assets/images/xrp_symbol.png"

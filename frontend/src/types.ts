@@ -6,6 +6,7 @@ export interface ArkProfile {
 export interface ArkCreator {
   id: string;
   name: string;
+  walletAddress: string;
   imageUrl?: string;
 }
 

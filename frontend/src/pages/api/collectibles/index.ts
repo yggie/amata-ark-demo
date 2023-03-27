@@ -31,6 +31,7 @@ export default async function handler(
             return {
               id: doc.id,
               name: data.name,
+              walletAddress: data.walletAddress,
             };
           });
       creatorsToResolve[data.creatorId] = creatorPromise;
